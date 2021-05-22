@@ -16,8 +16,8 @@ The extension functionality is straight forward. Just click the code map item an
 
 _Features_:
 * Supported syntaxes:
-  * **Assembly** -- added in this repository
-    requires the installation of [x86 and x86_64 Assembly extension](https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly)
+  * **Assembly** -- added in this repository.
+    Requires the installation of [x86 and x86_64 Assembly extension](https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly)
     ```
     A vsix file has been generated in the release folder: codemap-1.16.2.vsix.
     The command to create the vsix file is: 
