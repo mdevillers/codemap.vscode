@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.16.2 (22 May 2021)
+- Added support for Assembly
+
 ## 1.16.1 (15 May 2021)
 
 - Issue #55: Unfold also in editor

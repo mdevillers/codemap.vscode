@@ -16,6 +16,8 @@ The extension functionality is straight forward. Just click the code map item an
 
 _Features_:
 * Supported syntaxes:
+  * **Assembly** -- added in this repository
+    requires the installation of [x86 and x86_64 Assembly extension](https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly)
   * C#
   * TypeScript
   * JavaScript
@@ -51,6 +53,8 @@ If you create mapping rules or dedicated mapper and want to share it with others
 ## Limitations
 
 * The main objective of this plugin is not to provide the most accurate CodeDOM (syntax tree)  presentation but rather to assist with the navigation to the most important points in your code. Thus the default mappers deliberately avoid high resolution code parsing (e.g. local variables). 
+
+
 
 
 
