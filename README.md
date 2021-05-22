@@ -1,4 +1,4 @@
-# CodeMap - VSCode Extension
+# CodeMap - VSCode Extension (Assembly support)
 
 Interactive code map for quick visualization and navigation within  code DOM objects (e.g. classes, members).
 <hr/>
@@ -18,6 +18,9 @@ _Features_:
 * Supported syntaxes:
   * **Assembly** -- added in this repository
     requires the installation of [x86 and x86_64 Assembly extension](https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly)
+    A vsix file has been generated in the release folder: codemap-1.16.2.vsix
+    The command to create the vsix file is: vsce package (run sudo npm install -g vsce if not found)
+    In VS Studio Code, click on View/Extensions and use the option Install from VSIX and select the file.
   * C#
   * TypeScript
   * JavaScript
