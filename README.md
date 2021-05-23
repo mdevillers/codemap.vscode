@@ -24,6 +24,9 @@ _Features_:
        vsce package (run sudo npm install -g vsce if not found)
     In VS Studio Code, click on View/Extensions and use the option "Install from VSIX..." and select the file.
     ```
+
+![codemap_vscode_assembly.jpg](https://raw.githubusercontent.com/mdevillers/codemap.vscode/master/resources/images/codemap_vscode_assembly.jpg)
+
   * C#
   * TypeScript
   * JavaScript
