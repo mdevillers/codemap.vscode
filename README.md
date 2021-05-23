@@ -1,4 +1,4 @@
-# CodeMap - VSCode Extension (Assembly support)
+# CodeMap - VSCode Extension (with Assembly support)
 
 Interactive code map for quick visualization and navigation within  code DOM objects (e.g. classes, members).
 <hr/>
